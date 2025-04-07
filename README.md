@@ -1,2 +1,3 @@
-# dsm-quiz-game
-DSM 정책기획팀 퀴즈 게임
+# DSM Quiz Game
+
+워크숍 퀴즈 게임용 Next.js 프로젝트입니다.
