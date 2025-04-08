@@ -1,1 +1,1 @@
-// Entry page with nickname input and 60s countdown logic
+export default function Home() { return (<div>입장화면</div>); }

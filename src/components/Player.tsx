@@ -1,0 +1,1 @@
+export default function Player() { return (<div>플레이어 컴포넌트</div>); }

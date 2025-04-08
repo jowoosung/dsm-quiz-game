@@ -1,1 +1,1 @@
-// Game page with quiz logic, animations and score updates
+export default function Game() { return (<div>게임화면</div>); }
