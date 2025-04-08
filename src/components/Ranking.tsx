@@ -1,1 +1,0 @@
-export default function Ranking() { return <div>최종 순위</div>; }
