@@ -1,0 +1,1 @@
+// Game page with quiz logic, animations and score updates

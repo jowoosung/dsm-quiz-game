@@ -1,1 +1,3 @@
-# DSM Quiz Game
+# DSM 퀴즈 게임
+
+60초 대기방 + 애니메이션 + BGM 포함
