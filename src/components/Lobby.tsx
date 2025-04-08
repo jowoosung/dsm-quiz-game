@@ -1,2 +1,1 @@
-export {};
-// Dummy content for Lobby.tsx
+export default function Lobby() { return <div>대기 중입니다...</div>; }

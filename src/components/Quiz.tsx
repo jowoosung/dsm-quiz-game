@@ -1,2 +1,1 @@
-export {};
-// Dummy content for Quiz.tsx
+export default function Quiz() { return <div>퀴즈 문제</div>; }
