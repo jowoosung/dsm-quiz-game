@@ -1,2 +1,1 @@
-export {};
-// Dummy content for Lobby.tsx
+export default function Lobby() { return <div>Lobby</div>; }
